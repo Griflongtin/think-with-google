@@ -47,10 +47,37 @@ nav {
     position: relative;
     height: 340px;
   }
-    .news-article-main .col-sm-12 {
+  .news-article-main .col-sm-12 {
     color: #fff;
     position: absolute;
     bottom: 3%;
   }
+
+
+
+
+
+  .img img {
+    width: 90px;
+    height: 90px;
+  }
+  .news-article div {
+    display: inline-block;
+  }
+    .news-article .col-sm-12 {
+      width: 63%;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
 
 }
