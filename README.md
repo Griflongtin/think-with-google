@@ -1,13 +1,13 @@
-# _{Think with google}_
+# Think with google
 
-#### _{Brief description of application}, {12/6/17}_
+#### _{Brief description of application}, 12/6/17_
 This is a recreation of google news articles feed. 
 
-#### By _**{Griffin P Longtins}**_
+#### By _**Griffin P Longtins**_
 
 ## Description
 
-_{ This page is responsive for 3 different screen sizes, desktop, tablet and smart phones. It uses a grid for collapsing and expanding. }_
+_This page is responsive for 3 different screen sizes, desktop, tablet and smart phones. It uses a grid for collapsing and expanding._
 
 ## Setup/Installation Requirements
 
@@ -15,11 +15,9 @@ _{ This page is responsive for 3 different screen sizes, desktop, tablet and sma
 
 * Open up terminal and type in: cd ~
 * Then type in: cd Desktop
-* Then type in: git clone: https://github.com/Griflongtin/Office-365.git
+* Then type in: git clone: https://github.com/Griflongtin/think-with-google
 * Then go to your Desktop and find the new file called Office-365, Open it.
 * Then just open the index.html file.
-
-* Or just click this link: https://griflongtin.github.io/Office-365
 
 ## Known Bugs
 
@@ -37,5 +35,3 @@ _ATOM_
 ### License
 
 Copyright (c) 2017 **_Griffin P Longtin_**
-
-Copyright (c) 2015 **_{List of contributors or company name}_**
